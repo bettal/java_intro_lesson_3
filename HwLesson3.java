@@ -2,8 +2,7 @@
  * Java.1.Lesson.3.Homework
  *
  * @autor Stanislav Lyashov
- */
-
+ */ 
 import java.util.Random;
 import java.util.Scanner;
 
